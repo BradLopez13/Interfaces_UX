@@ -1,0 +1,11 @@
+D:\tierra Media\bin\Debug\tierra Media.exe.config
+D:\tierra Media\bin\Debug\tierra Media.exe
+D:\tierra Media\bin\Debug\tierra Media.pdb
+D:\tierra Media\obj\Debug\tierra Media.csproj.AssemblyReference.cache
+D:\tierra Media\obj\Debug\tierra_Media.Properties.Resources.resources
+D:\tierra Media\obj\Debug\tierra Media.csproj.GenerateResource.cache
+D:\tierra Media\obj\Debug\tierra Media.csproj.CoreCompileInputs.cache
+D:\tierra Media\obj\Debug\tierra Media.exe
+D:\tierra Media\obj\Debug\tierra Media.pdb
+D:\tierra Media\obj\Debug\BancoTierraMedia.Prestamos.resources
+D:\tierra Media\obj\Debug\BancoTierraMedia.Inicio.resources

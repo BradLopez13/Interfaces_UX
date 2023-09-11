@@ -1,0 +1,66 @@
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.AssemblyReference.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.CoreCompileInputs.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\bin\Debug\CentroMedico.exe.config
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\bin\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\bin\Debug\CentroMedico.pdb
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\CentroMedico.Properties.Resources.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\ModernGUI_V3\obj\Debug\CentroMedico.pdb
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\bin\Debug\CentroMedico.exe.config
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\bin\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\bin\Debug\CentroMedico.pdb
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.csproj.AssemblyReference.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\ModernGUI_V3.Form1.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\ModernGUI_V3.Form2.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\ModernGUI_V3.Form3.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.Properties.Resources.resources
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.csproj.GenerateResource.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.csproj.CoreCompileInputs.cache
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\Modern-GUI-Multi-Form-Winform-master\CentroMedico\obj\Debug\CentroMedico.pdb
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\bin\Debug\CentroMedico.exe.config
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\bin\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\bin\Debug\CentroMedico.pdb
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.csproj.AssemblyReference.cache
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\ModernGUI_V3.Form1.resources
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\ModernGUI_V3.Form2.resources
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\ModernGUI_V3.Form3.resources
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.Properties.Resources.resources
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.csproj.GenerateResource.cache
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.csproj.CoreCompileInputs.cache
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.exe
+E:\2º DAM\Interfaces\CentroMedico\CentroMedico\obj\Debug\CentroMedico.pdb
